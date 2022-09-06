@@ -49,3 +49,14 @@ Confusion matrix:
 ![confusion matrix](https://user-images.githubusercontent.com/13655344/188683945-f82ecc56-2245-40f3-97ac-ee9bbbe5ad3b.png)
 
 _Note: The model is trained on Kaggle's GPU. It takes approximately 5 minutes to train the model for 12 epochs._
+
+## Deployment
+
+Home page of the deployed model:
+![deployed model](https://user-images.githubusercontent.com/13655344/188695866-c0ad4606-a3e5-45f6-b588-1829e808e13f.png)
+
+### Prediction for each class
+
+| glioma_tumor(0)        | no_tumor(1)           | meningioma_tumor(2)  | pituitary_tumor(3) |
+| :-----------: |:-------------:| :----:| :--:|
+| <img src="https://user-images.githubusercontent.com/13655344/188699812-e37f496e-c522-456c-98ff-56f73e84cf56.png" width="170">      | <img src="https://user-images.githubusercontent.com/13655344/188699930-bd84bea7-68b3-483a-82fc-c78d60ec27b4.png" width="170"> | <img src="https://user-images.githubusercontent.com/13655344/188700003-a96e1438-3fa2-4244-9f91-7167de3d9b12.png" width="170"> | <img src="https://user-images.githubusercontent.com/13655344/188700094-05207f01-39ac-44c2-86b3-e35cecc24158.png" width="170"> |
